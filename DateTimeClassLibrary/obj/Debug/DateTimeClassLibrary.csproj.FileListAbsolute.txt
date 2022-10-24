@@ -1,0 +1,5 @@
+C:\Users\sanch\source\repos\DateTimeClassLibrary\DateTimeClassLibrary\bin\Debug\DateTimeClassLibrary.dll
+C:\Users\sanch\source\repos\DateTimeClassLibrary\DateTimeClassLibrary\bin\Debug\DateTimeClassLibrary.pdb
+C:\Users\sanch\source\repos\DateTimeClassLibrary\DateTimeClassLibrary\obj\Debug\DateTimeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sanch\source\repos\DateTimeClassLibrary\DateTimeClassLibrary\obj\Debug\DateTimeClassLibrary.dll
+C:\Users\sanch\source\repos\DateTimeClassLibrary\DateTimeClassLibrary\obj\Debug\DateTimeClassLibrary.pdb
